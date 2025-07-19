@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Streamlit
+.streamlit/
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Data
+*.csv
+*.json
+*.parquet
